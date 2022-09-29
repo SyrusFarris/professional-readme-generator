@@ -31,3 +31,16 @@ THEN I am taken to the corresponding section of the README
 4.) call 'node index' from terminal inside the node.js file and follow prompts.
 5.) New generated file will appear in explorer.
 6.) Enjoy! :)
+
+
+
+## Links
+
+github repo: https://github.com/SyrusFarris/professional-readme-generator
+
+Link to video: https://drive.google.com/file/d/1faMYMh416GXRUqDRDIHzJr8j_Ijf-fK3/view 
+
+
+## Screenshot
+
+![ScreenShot](./Develop/assets/Screen%20Shot%202022-09-29%20at%205.03.47%20PM.png "ScreenShot")
