@@ -21,3 +21,13 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+
+## How To Use:
+
+1.) Download code from repository.
+2.) Install packages with 'npm init -y'
+3.) initilize inquirer with 'npm i inquirer'
+4.) call 'node index' from terminal and follow prompts.
+5.) New generated file will appear in explorer.
+6.) Enjoy! :)
